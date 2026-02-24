@@ -1,5 +1,5 @@
 纯练手：
-（https://knightren.github.io/wordsbyroots/）
+（https://knightren.github.io/wordsbyroots）
 
 
 # 词根词缀记忆工坊
