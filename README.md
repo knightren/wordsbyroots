@@ -1,3 +1,7 @@
+纯练手：
+（https://knightren.github.io/wordsbyroots/）
+
+
 # 词根词缀记忆工坊
 
 用[`https://pdfresources.com/`](https://pdfresources.com/)搜索到了一个词根PDF,从而引发这个idea，从其中自动抽取词根词缀与例词，构建交互式记忆 Web App。
